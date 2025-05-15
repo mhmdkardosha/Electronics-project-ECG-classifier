@@ -1,0 +1,4 @@
+[submodule "Streamlit-app"]
+	path = Streamlit-app
+	url = https://github.com/mhmdkardosha/ECG-Classifier-Streamlit-app
+	branch = main
