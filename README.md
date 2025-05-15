@@ -76,8 +76,6 @@ notebooks/
    pip install -r requirements.txt
    ```
 
-   *(If `requirements.txt` is missing, install the following manually: pandas, numpy, scikit-learn, xgboost, lightgbm, catboost, matplotlib, seaborn, joblib, kagglehub)*
-
 4. **Download the dataset:**
    - The notebook uses `kagglehub` to download the dataset automatically if not present.
 
